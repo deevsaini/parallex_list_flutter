@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_parallex_effect/CardList.dart';
+import 'package:flutter_parallex_effect/card_list.dart';
 
 import 'demo_data.dart';
 
