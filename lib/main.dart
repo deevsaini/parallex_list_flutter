@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_parallex_effect/card_list.dart';
 
-import 'demo_data.dart';
-
 void main() {
   runApp(const MyApp());
 }

@@ -1,16 +1,20 @@
-# flutter_parallex_effect
+# flutter_parallex_effect:
 
-A new Flutter project.
+A demo of the trending parallex effect using Flutter.
 
-## Getting Started
+```
+Download or Clone the Repository to run
+```
 
-This project is a starting point for a Flutter application.
+Simplest way to implement Parallex Effect using only 3 Widgets.
 
-A few resources to get you started if this is your first Flutter project:
+# Demo:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+<img src="images/example.gif" height="1000px">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <br/>
+ <br/>
+ <br/>
+  <p align = "center">Show Some &#128147; by &#11088; the Repositories! </p>
